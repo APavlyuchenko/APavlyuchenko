@@ -1,10 +1,12 @@
-### Hi there 👋
+ My Github profile welcomes you. Come on, be home.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/9mFGCw7mg7aBdpT1c7/giphy.gif" width="1000"/>
+  <img src="https://user-images.githubusercontent.com/103581866/178459075-0f94e8de-7b2e-4eea-b308-3947c4c268ad.gif" width="700"/>
 </div>
 
-
+ If you would like to contact me: artyom.pavlyuchenko@outlook.com
+ 
+  Enjoy your day, stranger.  :raised_hands:
 <!--
 **APavlyuchenko/APavlyuchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
